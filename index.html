@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>TaxMap Spain</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.3.0"></script>
+</head>
+<body>
+  <header>
+    <h1>TaxMap Spain</h1>
+    <p>An interactive tool to explore how public funds are distributed in Spain.</p>
+  </header>
+  <main>
+    <canvas id="taxChart" width="400" height="400" aria-label="Tax Distribution Chart" role="img"></canvas>
+    <noscript>
+      <p>This application requires JavaScript to function. Please enable JavaScript in your browser.</p>
+    </noscript>
+    <div id="dataInfo"></div>
+  </main>
+  <footer>
+    <p>Data sourced from public APIs and governmental records. Designed for maximum browser compatibility.</p>
+  </footer>
+  <script src="js/app.js" defer></script>
+</body>
+</html>
