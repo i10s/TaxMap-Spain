@@ -18,6 +18,15 @@
 
 ---
 
+## Data Sources 📂
+TaxMap Spain uses reliable public data from the following sources:
+1. **[Datos.gob.es](https://datos.gob.es)**: A national open data portal providing datasets from Spanish public institutions.
+2. **[Ministerio de Hacienda y Función Pública](https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/Presupuestos/DocumentacionEstadisticas/Estadisticas/Paginas/Estadisticas.aspx)**: Budget data from the Spanish Ministry of Finance.
+3. **[Boletín Oficial del Estado (BOE)](https://www.boe.es/datosabiertos/)**: Legal data related to fiscal policies and budget allocations.
+4. **[Gobierto Presupuestos Municipales](https://datos.gob.es/aplicaciones/gobierno-presupuestos-municipales)**: Insights on municipal budgets across Spain.
+
+---
+
 ## How to Use 🛠️
 1. Clone the repository:
    ```bash
